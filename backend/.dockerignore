@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+agentos.db
+chroma_data/
+uploaded_documents/
+tests/
+*.db
